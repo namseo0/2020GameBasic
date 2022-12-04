@@ -1,6 +1,6 @@
 # 2020GameBasic
 
-> ### 2020 [VR/AR/게임제작기초] 기말 텀프로젝트 "Happy Delivery"   
+> ### 2020 VR/AR/게임제작기초: 기말 텀프로젝트 "Happy Delivery"   
    
    
 #### (1) 개발환경 : Unity, C#
